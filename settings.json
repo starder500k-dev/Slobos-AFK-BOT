@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "starder500.aternos.me",
-    "port": 54457,
-    "version": "1.21.5"
+    "ip": "KiritoMC.aternos.me",
+    "port": 52403,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
